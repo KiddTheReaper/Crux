@@ -62,16 +62,16 @@ Crux is a tool designed for unrestricted research and offensive simulation. The 
 ## Contact
 
 <p align="center">
-  <a href="https://github.com/xvnz" target="_blank">
+  <a href="https://github.com/KiddTheReaper" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://t.me/xvnz_ai" target="_blank">
+  <a href="https://t.me/KiddTheReaper" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://tiktok.com/@xvnz.ai" target="_blank">
+  <a href="https://tiktok.com/@justan0therloser" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="mailto:xvnz@pm.me" target="_blank">
+  <a href="mailto:captainkidd@tutamail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-444444?style=for-the-badge&logo=minutemailer&logoColor=white"/>
   </a>
 </p>
