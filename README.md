@@ -45,11 +45,11 @@ From stealth scripting to malware development, Crux delivers code, payloads, and
   <tr>
     <td align="center">
       <strong>Dark</strong><br>
-      <img src="https://i.imgur.com/2gm2feE.jpeg" width="300">
+      <img src="https://i.imgur.com/2gm2feE.jpeg">
     </td>
     <td align="center">
       <strong>Light</strong><br>
-      <img src="https://i.imgur.com/jRxhIhQ.jpeg" width="300">
+      <img src="https://i.imgur.com/jRxhIhQ.jpeg">
     </td>
   </tr>
 </table>
