@@ -33,11 +33,19 @@ From stealth scripting to malware development, Crux delivers code, payloads, and
 
 ### 💀 Create Ransomware
 
-![]()
+<video controls>
+  <source src="https://raw.githubusercontent.com/KiddTheReaper/Crux/main/doc/Proyek%20Baru%2037%20%5B5EF64EA%5D.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
 
 ### 🕳️ Illegal/Offensive Dialog
 
-![]()
+<video controls>
+  <source src="https://raw.githubusercontent.com/KiddTheReaper/Crux/main/doc/Proyek%20Baru%2037%20%5B3919EAE%5D.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### 🎨 Themes
 
