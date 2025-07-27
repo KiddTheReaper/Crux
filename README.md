@@ -38,8 +38,6 @@ From stealth scripting to malware development, Crux delivers code, payloads, and
   Your browser does not support the video tag.
 </video>
 
----
-
 ### 🕳️ Illegal/Offensive Dialog
 
 <video controls>
