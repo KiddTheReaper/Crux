@@ -31,11 +31,13 @@ From stealth scripting to malware development, Crux delivers code, payloads, and
 
 ## Documentation
 
-### 💀 Create Ransomware  
-![Ransomware](https://jumpshare.com/s/mP6srl2I6fuO8G1Uc7uQ)
+### 💀 Create Ransomware
 
-### 🕳️ Illegal/Offensive Dialog  
-![Illegal](https://jumpshare.com/s/fQsHtEdjROn2Fi7SVaD0)
+![Create Ransomware](doc/Proyek%20Baru%2037%20%5B5EF64EA%5D.gif)
+
+### 🕳️ Illegal/Offensive Dialog
+
+![Illegal Dialog](doc/Proyek%20Baru%2037%20%5B3919EAE%5D.gif)
 
 ### 🎨 Themes
 
