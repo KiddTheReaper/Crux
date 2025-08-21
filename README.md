@@ -11,7 +11,7 @@ From stealth scripting to malware development, Crux delivers code, payloads, and
 
 ## Access
 
-- 🔗 **URL**: [Chat Crux](https://crux-demo.vercel.app)
+- 🔗 **URL**: [Chat Crux](https://crux-pi.vercel.app)
 - 🔒 **Limits**:
   - No sign-up: 10 messages/day
   - With sign-up: 50+ messages/day
