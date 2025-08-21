@@ -8,7 +8,7 @@
 
 From stealth scripting to malware development, Crux delivers code, payloads, and adversarial logic — no restrictions, no warnings, no boundaries.
 
-Based on [Next.js AI Chatbot](vercel.com/templates/next.js/nextjs-ai-chatbot)
+Based on [Next.js AI Chatbot](https://vercel.com/templates/next.js/nextjs-ai-chatbot)
 
 ## Access
 
