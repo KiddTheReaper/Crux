@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/cXeoRii.jpeg" alt="Crux AI Logo">
+  <img src="https://b.top4top.io/p_3520f18741.png" alt="Crux AI Logo">
 </p>
 
 ## Overview
@@ -8,6 +8,7 @@
 
 From stealth scripting to malware development, Crux delivers code, payloads, and adversarial logic — no restrictions, no warnings, no boundaries.
 
+Based on [Next.js AI Chatbot](vercel.com/templates/next.js/nextjs-ai-chatbot)
 
 ## Access
 
